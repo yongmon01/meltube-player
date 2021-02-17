@@ -21,7 +21,7 @@
 ## 개발스택
 
 * Python
-* Sellenium
+* Selenium
 * PyQt5
 <br/>
 
